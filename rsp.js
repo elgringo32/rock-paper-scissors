@@ -1,5 +1,5 @@
 
-var arr = ["rock", "paper", "scissors"]; 
+var arr = ["Rock", "paper", "scissors"]; 
 
 function computerPlay () {
     return arr[Math.floor(Math.random() * arr.length)]; 
